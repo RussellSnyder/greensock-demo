@@ -1,0 +1,32 @@
+{
+  "name": "xpr-isf",
+  "version": "1.0.1",
+  "dependencies": {
+    "gsap": "^2.0.2",
+    "lodash": "^4.17.11",
+    "scrollmagic": "^2.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babelify": "^10.0.0",
+    "browserify-fs": "^1.0.0",
+    "grunt": "^1.0.4",
+    "grunt-browserify": "^5.3.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "load-grunt-tasks": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "highsnobiety",
+  "license": "ISC",
+  "bugs": {},
+  "main": "Gruntfile.js",
+  "description": ""
+}
